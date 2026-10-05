@@ -1,0 +1,490 @@
+{
+ "rings": [
+  {
+   "id": "6a17e8d80eb638f904c6f632",
+   "name": "Accord",
+   "slug": "accord",
+   "price": 826,
+   "regularPrice": 1727,
+   "image": "https://media.diama.com.au/images/1780662775.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1780664002.jpg",
+   "rating": 0
+  },
+  {
+   "id": "6a17ec7f0eb638f904c70f79",
+   "name": "Alight",
+   "slug": "alight",
+   "price": 773,
+   "regularPrice": 1717,
+   "image": "https://media.diama.com.au/images/1779958849.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779957847.jpg",
+   "rating": 0
+  },
+  {
+   "id": "6a17dcdf0eb638f904c6db4c",
+   "name": "Bastion",
+   "slug": "bastion",
+   "price": 1519,
+   "regularPrice": 3375,
+   "image": "https://media.diama.com.au/images/1779956322.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779953387.jpg",
+   "rating": 0
+  },
+  {
+   "id": "6a14308649be83c15791b2ff",
+   "name": "Bloom",
+   "slug": "bloom",
+   "price": 845,
+   "regularPrice": 1878,
+   "image": "https://media.diama.com.au/images/1779714119.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779709487.jpg",
+   "rating": 0
+  },
+  {
+   "id": "6a15113c49be83c15791dfe7",
+   "name": "Blush",
+   "slug": "blush",
+   "price": 338,
+   "regularPrice": 752,
+   "image": "https://media.diama.com.au/images/1779768105.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779770132.jpg",
+   "rating": 0
+  },
+  {
+   "id": "6a147aad49be83c15791cb8d",
+   "name": "Braid",
+   "slug": "braid",
+   "price": 769,
+   "regularPrice": 1709,
+   "image": "https://media.diama.com.au/images/1779735323.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779733842.jpg",
+   "rating": 0
+  },
+  {
+   "id": "6a0fc8b991b6026d75c564f6",
+   "name": "Cameo",
+   "slug": "cameo",
+   "price": 687,
+   "regularPrice": 1528,
+   "image": "https://media.diama.com.au/images/1779426554.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779427435.jpg",
+   "rating": 0
+  },
+  {
+   "id": "69e333cac0019f38dc05c53b",
+   "name": "Celie",
+   "slug": "celie",
+   "price": 351,
+   "regularPrice": 780,
+   "image": "https://media.diama.com.au/images/1776502399.png",
+   "hoverImage": "https://media.diama.com.au/images/1776502072.png",
+   "rating": 0
+  },
+  {
+   "id": "6a150e7a49be83c15791d94f",
+   "name": "Cerise",
+   "slug": "cerise",
+   "price": 530,
+   "regularPrice": 1177,
+   "image": "https://media.diama.com.au/images/1779769224.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779770308.jpg",
+   "rating": 0
+  },
+  {
+   "id": "69e3499fc0019f38dc05cbe7",
+   "name": "Cherie",
+   "slug": "cherie",
+   "price": 350,
+   "regularPrice": 778,
+   "image": "https://media.diama.com.au/images/1776512195.png",
+   "hoverImage": "https://media.diama.com.au/images/1776505034.png",
+   "rating": 0
+  },
+  {
+   "id": "6a17db410eb638f904c6d6ce",
+   "name": "Citadel",
+   "slug": "citadel",
+   "price": 740,
+   "regularPrice": 1645,
+   "image": "https://media.diama.com.au/images/1779953856.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779957585.jpg",
+   "rating": 0
+  },
+  {
+   "id": "6a17ea2c0eb638f904c70279",
+   "name": "Coil",
+   "slug": "coil",
+   "price": 402,
+   "regularPrice": 893,
+   "image": "https://media.diama.com.au/images/1779955674.jpg",
+   "hoverImage": "https://media.diama.com.au/images/1779958923.jpg",
+   "rating": 0
+  }
+ ],
+ "earrings": [
+  {
+   "id": "69cf2b287cf35ce7e7f7b0f3",
+   "name": "Aria",
+   "slug": "aria",
+   "price": 375,
+   "regularPrice": 833,
+   "image": "https://media.diama.com.au/images/1775186250.png",
+   "hoverImage": "https://media.diama.com.au/images/1775190686.png",
+   "rating": 0
+  },
+  {
+   "id": "69ce47787cf35ce7e7f71b8b",
+   "name": "Bijou",
+   "slug": "bijou",
+   "price": 878,
+   "regularPrice": 1950,
+   "image": "https://media.diama.com.au/images/1775134604.png",
+   "hoverImage": "https://media.diama.com.au/images/1775136107.png",
+   "rating": 0
+  },
+  {
+   "id": "69cf3c097cf35ce7e7f82c19",
+   "name": "Brio",
+   "slug": "brio",
+   "price": 408,
+   "regularPrice": 907,
+   "image": "https://media.diama.com.au/images/1775192034.png",
+   "hoverImage": "https://media.diama.com.au/images/1775198839.png",
+   "rating": 0
+  },
+  {
+   "id": "69cf34487cf35ce7e7f7df64",
+   "name": "Cloud",
+   "slug": "cloud",
+   "price": 1504,
+   "regularPrice": 3342,
+   "image": "https://media.diama.com.au/images/1775191513.png",
+   "hoverImage": "https://media.diama.com.au/images/1775196823.png",
+   "rating": 0
+  },
+  {
+   "id": "69cf2a287cf35ce7e7f7a8f1",
+   "name": "Flora",
+   "slug": "flora",
+   "price": 650,
+   "regularPrice": 1444,
+   "image": "https://media.diama.com.au/images/1775191948.png",
+   "hoverImage": "https://media.diama.com.au/images/1775189994.png",
+   "rating": 0
+  },
+  {
+   "id": "69ce61b17cf35ce7e7f73bcd",
+   "name": "Kaia",
+   "slug": "kaia",
+   "price": 273,
+   "regularPrice": 606,
+   "image": "https://media.diama.com.au/images/1775141317.png",
+   "hoverImage": "https://media.diama.com.au/images/1775141267.png",
+   "rating": 0
+  },
+  {
+   "id": "69cf2d807cf35ce7e7f7bfed",
+   "name": "Liora",
+   "slug": "liora",
+   "price": 711,
+   "regularPrice": 1580,
+   "image": "https://media.diama.com.au/images/1775188469.png",
+   "hoverImage": "https://media.diama.com.au/images/1775186764.png",
+   "rating": 0
+  },
+  {
+   "id": "69cf31d07cf35ce7e7f7d5f8",
+   "name": "Loma",
+   "slug": "loma",
+   "price": 928,
+   "regularPrice": 2062,
+   "image": "https://media.diama.com.au/images/1775190254.png",
+   "hoverImage": "https://media.diama.com.au/images/1775192298.png",
+   "rating": 0
+  },
+  {
+   "id": "69ce2dc47cf35ce7e7f71092",
+   "name": "Lovell",
+   "slug": "lovell",
+   "price": 619,
+   "regularPrice": 1374,
+   "image": "https://media.diama.com.au/images/1775127123.png",
+   "hoverImage": "https://media.diama.com.au/images/1775128199.png",
+   "rating": 0
+  },
+  {
+   "id": "69ce56a87cf35ce7e7f728c0",
+   "name": "Luna",
+   "slug": "luna",
+   "price": 731,
+   "regularPrice": 1624,
+   "image": "https://media.diama.com.au/images/1775134571.png",
+   "hoverImage": "https://media.diama.com.au/images/1775131351.png",
+   "rating": 0
+  },
+  {
+   "id": "69cf36787cf35ce7e7f80582",
+   "name": "Maven",
+   "slug": "maven",
+   "price": 250,
+   "regularPrice": 556,
+   "image": "https://media.diama.com.au/images/1779110640.png",
+   "hoverImage": "https://media.diama.com.au/images/1775190888.png",
+   "rating": 0
+  },
+  {
+   "id": "69ce0abe7cf35ce7e7f70701",
+   "name": "Mira",
+   "slug": "mira",
+   "price": 673,
+   "regularPrice": 1494,
+   "image": "https://media.diama.com.au/images/1775117117.png",
+   "hoverImage": "https://media.diama.com.au/images/1775119760.png",
+   "rating": 0
+  }
+ ],
+ "pendants": [
+  {
+   "id": "69d09c4b8af2c9228b326331",
+   "name": "Amora",
+   "slug": "amora",
+   "price": 314,
+   "regularPrice": 2545,
+   "image": "https://media.diama.com.au/images/1775283201.png",
+   "hoverImage": "https://media.diama.com.au/images/1775281526.png",
+   "rating": 0
+  },
+  {
+   "id": "6a0ac0a93e6eba11408680a8",
+   "name": "Aurelia",
+   "slug": "aurelia",
+   "price": 424,
+   "regularPrice": 2667,
+   "image": "https://media.diama.com.au/images/1779096632.png",
+   "hoverImage": "https://media.diama.com.au/images/1779097161.png",
+   "rating": 0
+  },
+  {
+   "id": "6a0ab1653e6eba1140865730",
+   "name": "Aveline",
+   "slug": "aveline",
+   "price": 242,
+   "regularPrice": 2466,
+   "image": "https://media.diama.com.au/images/1779093303.png",
+   "hoverImage": "https://media.diama.com.au/images/1779088683.png",
+   "rating": 0
+  },
+  {
+   "id": "6a0d3f2c6c4b21374e16294e",
+   "name": "Bellavie",
+   "slug": "bellavie",
+   "price": 74,
+   "regularPrice": 2282,
+   "image": "https://media.diama.com.au/images/1779260987.png",
+   "hoverImage": "https://media.diama.com.au/images/1779255759.png",
+   "rating": 0
+  },
+  {
+   "id": "69d09efc8af2c9228b326cae",
+   "name": "Calise",
+   "slug": "calise",
+   "price": 817,
+   "regularPrice": 3099,
+   "image": "https://media.diama.com.au/images/1775287765.png",
+   "hoverImage": "https://media.diama.com.au/images/1775289892.png",
+   "rating": 0
+  },
+  {
+   "id": "69d0af9b8af2c9228b3316e5",
+   "name": "Celestia",
+   "slug": "celestia",
+   "price": 304,
+   "regularPrice": 2535,
+   "image": "https://media.diama.com.au/images/1775287413.png",
+   "hoverImage": "https://media.diama.com.au/images/1775290213.png",
+   "rating": 0
+  },
+  {
+   "id": "6a0ab3e43e6eba1140865948",
+   "name": "Colette",
+   "slug": "colette",
+   "price": 159,
+   "regularPrice": 2374,
+   "image": "https://media.diama.com.au/images/1779094641.png",
+   "hoverImage": "https://media.diama.com.au/images/1779094705.png",
+   "rating": 0
+  },
+  {
+   "id": "69d0a8048af2c9228b32c6a6",
+   "name": "Cora",
+   "slug": "cora",
+   "price": 280,
+   "regularPrice": 2508,
+   "image": "https://media.diama.com.au/images/1775284779.png",
+   "hoverImage": "https://media.diama.com.au/images/1775284073.png",
+   "rating": 0
+  },
+  {
+   "id": "69d095578af2c9228b32407a",
+   "name": "Elara",
+   "slug": "elara",
+   "price": 578,
+   "regularPrice": 2836,
+   "image": "https://media.diama.com.au/images/1775278721.png",
+   "hoverImage": "https://media.diama.com.au/images/1775282962.png",
+   "rating": 0
+  },
+  {
+   "id": "69d0be688af2c9228b33c914",
+   "name": "Elise",
+   "slug": "elise",
+   "price": 162,
+   "regularPrice": 2378,
+   "image": "https://media.diama.com.au/images/1775295927.png",
+   "hoverImage": "https://media.diama.com.au/images/1775294222.png",
+   "rating": 0
+  },
+  {
+   "id": "69d0a09d8af2c9228b32773e",
+   "name": "Estelle",
+   "slug": "estelle-1",
+   "price": 211,
+   "regularPrice": 2432,
+   "image": "https://media.diama.com.au/images/1775286546.png",
+   "hoverImage": "https://media.diama.com.au/images/1775287238.png",
+   "rating": 0
+  },
+  {
+   "id": "6a0ab5d93e6eba1140865b26",
+   "name": "Petalia",
+   "slug": "petalia",
+   "price": 170,
+   "regularPrice": 2387,
+   "image": "https://media.diama.com.au/images/1779089892.png",
+   "hoverImage": "https://media.diama.com.au/images/1779095606.png",
+   "rating": 0
+  }
+ ],
+ "bracelets": [
+  {
+   "id": "69e29c4a669e7f312329bf38",
+   "name": "Amour",
+   "slug": "amour",
+   "price": 5052,
+   "regularPrice": 11227,
+   "image": "https://media.diama.com.au/images/1776467737.png",
+   "hoverImage": "https://media.diama.com.au/images/1776465300.png",
+   "rating": 0
+  },
+  {
+   "id": "69e362abc0019f38dc05df7c",
+   "name": "Aster",
+   "slug": "aster",
+   "price": 1575,
+   "regularPrice": 3499,
+   "image": "https://media.diama.com.au/images/1779159858.png",
+   "hoverImage": "https://media.diama.com.au/images/1779161975.png",
+   "rating": 0
+  },
+  {
+   "id": "69e35977c0019f38dc05d5d4",
+   "name": "Aura",
+   "slug": "aura",
+   "price": 2202,
+   "regularPrice": 4892,
+   "image": "https://media.diama.com.au/images/1779139480.png",
+   "hoverImage": "https://media.diama.com.au/images/1779131401.png",
+   "rating": 0
+  },
+  {
+   "id": "69e293c0c1ba87fdf1424d64",
+   "name": "Axis",
+   "slug": "axis",
+   "price": 4925,
+   "regularPrice": 10944,
+   "image": "https://media.diama.com.au/images/1776464453.png",
+   "hoverImage": "https://media.diama.com.au/images/1776461877.png",
+   "rating": 0
+  },
+  {
+   "id": "69e2f9d9669e7f312329c995",
+   "name": "Cadence",
+   "slug": "cadence",
+   "price": 2374,
+   "regularPrice": 5275,
+   "image": "https://media.diama.com.au/images/1776489918.png",
+   "hoverImage": "https://media.diama.com.au/images/1776489358.png",
+   "rating": 0
+  },
+  {
+   "id": "6a05b87b6ef5cedb05b88056",
+   "name": "Dew",
+   "slug": "dew",
+   "price": 1095,
+   "regularPrice": 2433,
+   "image": "https://media.diama.com.au/images/1778768660.png",
+   "hoverImage": "https://media.diama.com.au/images/1778769351.png",
+   "rating": 0
+  },
+  {
+   "id": "69e2fa63669e7f312329ca56",
+   "name": "Ellipse",
+   "slug": "ellipse",
+   "price": 1333,
+   "regularPrice": 2961,
+   "image": "https://media.diama.com.au/images/1776568821.png",
+   "hoverImage": "https://media.diama.com.au/images/1779130889.png",
+   "rating": 0
+  },
+  {
+   "id": "69e351b3c0019f38dc05d26b",
+   "name": "Embrace",
+   "slug": "embrace",
+   "price": 1487,
+   "regularPrice": 3304,
+   "image": "https://media.diama.com.au/images/1779133800.png",
+   "hoverImage": "https://media.diama.com.au/images/1779134118.png",
+   "rating": 0
+  },
+  {
+   "id": "69e2f950669e7f312329c8a7",
+   "name": "Luma",
+   "slug": "luma",
+   "price": 1982,
+   "regularPrice": 4404,
+   "image": "https://media.diama.com.au/images/1776491053.png",
+   "hoverImage": "https://media.diama.com.au/images/1776487706.png",
+   "rating": 0
+  },
+  {
+   "id": "6a0d37056c4b21374e16184a",
+   "name": "Mosaic",
+   "slug": "mosaic",
+   "price": 2896,
+   "regularPrice": 6435,
+   "image": "https://media.diama.com.au/images/1779260462.png",
+   "hoverImage": "https://media.diama.com.au/images/1779256768.png",
+   "rating": 0
+  },
+  {
+   "id": "69e29d67669e7f312329c05d",
+   "name": "Muse",
+   "slug": "muse",
+   "price": 2494,
+   "regularPrice": 5543,
+   "image": "https://media.diama.com.au/images/1776468080.png",
+   "hoverImage": "https://media.diama.com.au/images/1776467765.png",
+   "rating": 0
+  },
+  {
+   "id": "69e2fb59669e7f312329cbe1",
+   "name": "Nova",
+   "slug": "nova",
+   "price": 3601,
+   "regularPrice": 8001,
+   "image": "https://media.diama.com.au/images/1776485121.png",
+   "hoverImage": "https://media.diama.com.au/images/1776485645.png",
+   "rating": 0
+  }
+ ]
+}
