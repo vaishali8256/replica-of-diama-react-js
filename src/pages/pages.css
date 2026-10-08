@@ -95,3 +95,5 @@
 .pdp__shape img { width: 36px; height: 36px; object-fit: contain; }
 .pdp__shape b { display: block; font-weight: 600; }
 .pdp__shape small { display: block; color: var(--color-muted); font-size: 12px; }
+.pdp__thumb--360 { display: grid; place-items: center; background: #fff; font-size: 13px; font-weight: 600; letter-spacing: .04em; }
+.pdp__thumb--360 span { display: grid; place-items: center; width: 44px; height: 44px; border: 1.5px solid currentColor; border-radius: 50%; }

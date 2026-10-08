@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from 'react-router-dom'
 import PageHeader from '../components/common/PageHeader'
 import Button from '../components/common/Button'
 import ProductCard from '../components/common/ProductCard'
+import Viewer360 from '@jasbros2568/react-viewer-360'
 import { formatPrice } from '../utils/format'
 import { SHAPES } from '../config/home'
 import products from '../data/products.json'
@@ -71,6 +72,8 @@ function Detail({ product }) {
   }
 
   const images = metal.images.length ? metal.images : [product.image]
+  const view360 = metal.view360
+  const show360 = view360 && imgIndex === images.length
   const description = stripHtml(info.description) || stripHtml(info.summary)
   const shapes = (info.shapes || []).map((s) => ({ ...s, icon: SHAPES.find((x) => same(x.title, s.name))?.image }))
   const specs = [
@@ -101,9 +104,18 @@ function Detail({ product }) {
                   <img src={src} alt="" loading="lazy" />
                 </button>
               ))}
+              {view360 && (
+                <button type="button" className={`pdp__thumb pdp__thumb--360${show360 ? ' pdp__thumb--on' : ''}`} onClick={() => setImgIndex(images.length)} aria-label="View 360°">
+                  <span>360°</span>
+                </button>
+              )}
             </div>
             <div className="pdp__main">
-              <img src={images[Math.min(imgIndex, images.length - 1)]} alt={product.name} />
+              {show360 ? (
+                <Viewer360 key={metal.name} src={view360.src} count={view360.count} alt={`${product.name} 360° view`} />
+              ) : (
+                <img src={images[Math.min(imgIndex, images.length - 1)]} alt={product.name} />
+              )}
               <button
                 type="button"
                 className={`product-card__heart${liked ? ' product-card__heart--on' : ''}`}
